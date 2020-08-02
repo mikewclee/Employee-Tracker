@@ -2,10 +2,10 @@
   # Employee_Tracker
 
   ![Badge](https://img.shields.io/badge/project-Employee_Tracker-green)
-  ![Badge](https://img.shields.io/badge/Installation-inquirer_mysql_asciiart-log_console.table-blue) 
+  ![Badge](https://img.shields.io/badge/Installation-inquirer_mysql_asciiartlog_console.table-blue) 
 
   ## Description
-  An employee tracker app that allows users to create, read, updated, and delete (CRUD) employees and managers information.  The app is build using node, inquirer, and MySQL.  \
+  An employee tracker app that allows users to create, read, updated, and delete (CRUD) employees and managers information.  The app is build using node, inquirer, and MySQL.  
 
 Watch video link:
 https://drive.google.com/file/d/1LtAAOwhzGiCflSE2ewB7ZgnkPvrns5ZX/view
@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1LtAAOwhzGiCflSE2ewB7ZgnkPvrns5ZX/view
   - [Questions](#Questions)
 
   ## Installation
-  Packages required to run this program are: inquirer_mysql_asciiart-log_console.table
+  Packages required to run this program are: inquirer mysql asciiart-log console.table
 
   ## Usage
   The employee tracker app can be use by business owners that wants to be able to view and manage their departments, roles, and employees in their company.
@@ -47,4 +47,3 @@ GitHub Username: https://github.com/mikewclee
 GitHub Project link: https://github.com/mikewclee/Employee-Tracker
   
 Contact email: mikewclee@gmail.com
-  
